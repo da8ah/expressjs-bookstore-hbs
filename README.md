@@ -1,2 +1,2 @@
-# Screenshot
-![](docs/screenshot.png)
+# expressjs-bookstore-hbs
+Express project with HandleBars
